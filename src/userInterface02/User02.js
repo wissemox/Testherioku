@@ -164,7 +164,7 @@ const User02 = () => {
       return <Redirect to="/"/>
      }
       
-       const imgUrl=require(`../../../backend/images/${testsd}.png`)
+    //    const imgUrl=require(`../../../backend/images/${testsd}.png`)
     return (
         
         <div data-Aos="fade-up" >
@@ -235,7 +235,7 @@ const User02 = () => {
                   </div>
                   <Modal />
                  
-                    <img src={'../../../backend/images/1.png'}/>
+                    {/* <img src={'../../../backend/images/1.png'}/> */}
             
           </div>
           <div className="FlexNumber">
